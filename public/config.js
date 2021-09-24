@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Uptime Status',
+  SiteName: '网站监控',
 
   // 站点链接
   SiteUrl: '/',
@@ -32,7 +32,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://tjys.now.sh/'
+      url: 'https://looklook.pages.dev/'
     },
     {
       text: 'GitHub',
